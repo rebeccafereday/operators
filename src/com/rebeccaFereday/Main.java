@@ -20,5 +20,7 @@ public class Main {
         if (remainder <= 20)
             System.out.println("Total was over the limit");
 
+        System.out.println("Complete");
+
     }
 }
